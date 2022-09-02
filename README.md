@@ -11,20 +11,20 @@ If the sorting process takes too long (more than 10 times longer than the linear
 
 ```
 Start searching (linear search)...
-Found 500 / 500 entries. Time taken: 1 min. 56 sec. 328 ms.
+Found 500 / 500 entries. Time taken: 0 min. 1 sec. 982 ms.
 
 Start searching (bubble sort + jump search)...
-Found 500 / 500 entries. Time taken: 9 min. 15 sec. 291 ms.
-Sorting time: 8 min. 45 sec. 251 ms.
-Searching time: 0 min. 30 sec. 40 ms.
+Found 500 / 500 entries. Time taken: 0 min. 21 sec. 526 ms.
+Sorting time: Time taken: 0 min. 19 sec. 838 ms. - STOPPED, moved to linear search
+Searching time: Time taken: 0 min. 1 sec. 688 ms.
 
 Start searching (quick sort + binary search)...
-Found 500 / 500 entries. Time taken: 1 min. 21 sec. 996 ms.
-Sorting time: 1 min. 17 sec. 381 ms.
-Searching time: 0 min. 4 sec. 615 ms.
+Found 500 / 500 entries. Time taken: 0 min. 1 sec. 97 ms.
+Sorting time: Time taken: 0 min. 1 sec. 93 ms.
+Searching time: Time taken: 0 min. 0 sec. 4 ms.
 
 Start searching (hash table)...
-Found 500 / 500 entries. Time taken: 0 min. 4 sec. 256 ms.
-Creating time: 0 min. 4 sec. 121 ms.
-Searching time: 0 min. 0 sec. 135 ms.
+Found 500 / 500 entries. Time taken: 0 min. 0 sec. 260 ms.
+Creating time: Time taken: 0 min. 0 sec. 260 ms.
+Searching time: Time taken: 0 min. 0 sec. 0 ms.
 ```
